@@ -6,7 +6,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 I'm a CS student at George Mason University with internship experience at **Google** and **Astrion Bank**, where I've worked on **ML pipelines**, **transaction APIs**, and **cloud infrastructure**. I enjoy building **full-stack applications** and continuously improve through **LeetCode** and learning new technologies.
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="400" src="image/duck.gif" />
+<img align="right" alt="Bred the penguin chillin' by the fire." width="401" src="image/duck.gif" />
 
 
 
