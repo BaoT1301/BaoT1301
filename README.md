@@ -23,12 +23,12 @@ I'm a CS student at George Mason University with internship experience at **Goog
 
 <div align="left">
 
-# 💬 Let's Connect!
+# 💬 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/baot1301"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:baotran.swe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
-  <a href="https://baot1301.com"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/></a>
+  <a href="https://baot1301.framer.website/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/></a>
 </p>
 
 </div>
