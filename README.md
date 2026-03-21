@@ -146,6 +146,9 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
   </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
+  </a>
 </p>
 <br>
 
