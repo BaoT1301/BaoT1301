@@ -155,9 +155,8 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 # 📊 GitHub Stats:
 <br clear="both"/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoT1301&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=BaoT1301&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=BaoT1301&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="180" />
 </p>
 
 <br clear="both"/>
