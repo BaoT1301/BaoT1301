@@ -9,8 +9,8 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 ## Life
 - 🎓 **`Computer Science`** at [**George Mason University**](https://www.gmu.edu/)
-- 🚀 **`AI Software Intern`** @ **Deepiri**
 - 🤖 **`AI System and Automation Intern`** @ **Hemut (YC X25)**
+- 🚀 **`AI Software Intern`** @ **Deepiri**
 - 🧠 **`AI Extern`** @ **Extern**
 - 🌐 **`Google for Developers Program`** @ **Google**
 - 🏦 **`Software Engineer Intern`** @ **Astrion Bank**
