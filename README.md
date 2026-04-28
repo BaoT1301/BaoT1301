@@ -8,20 +8,21 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 <img align="right" alt="pixel art sunset" width="260" src="image/spark.gif" />
 
 ## Life
-- 🎓 **`Computer Science`** at [**George Mason University**](https://www.gmu.edu/)
-- 🤖 **`AI System and Automation Intern`** @ **Hemut (YC X25)**
-- 🚀 **`AI Software Intern`** @ **Deepiri**
-- 🧠 **`AI Extern`** @ **Extern**
-- 🌐 **`Google for Developers Program`** @ **Google**
-- 🏦 **`Software Engineer Intern`** @ **Astrion Bank**
-- ☁️ **`Software Engineer Intern`** @ **CloudyScale.ai**
-- ⚡ **`Cloud Developer`** @ **PatriotHacks**
+- **`Computer Science`** at [**George Mason University**](https://www.gmu.edu/)
+- **`AI System and Automation Intern`** @ **Hemut (YC X25)**
+- **`AI Software Intern`** @ **Deepiri**
+- **`AI Extern`** @ **Extern**
+- **`Technical Lead`** @ **Google Developer Group GMU**
+- **`Google for Developers Program`** @ **Google**
+- **`Software Engineer Intern`** @ **Astrion Bank**
+- **`Software Engineer Intern`** @ **CloudyScale.ai**
+- **`Cloud Developer`** @ **PatriotHacks**
 
 ## Highlights
-- 🏅 **`Dean’s List`** ×3
-- 🤖 Built **`AI`** and **`full-stack`** products using **`LLMs`**, **`multi-agent systems`**, **`RAG workflows`**, and **`cloud tools`**
-- 💻 Strong interest in **`Software Engineering`**, **`AI Engineering`**, **`Cloud`**, and **`Machine Learning`**
-- 📚 Always learning through **projects**, **technical interviews**, and **new technologies**
+- **`Dean’s List`** ×3
+- Built **`AI`** and **`full-stack`** products using **`LLMs`**, **`multi-agent systems`**, **`RAG workflows`**, and **`cloud tools`**
+- Strong interest in **`Software Engineering`**, **`AI Engineering`**, **`Cloud`**, and **`Machine Learning`**
+- Always learning through **projects**, **technical interviews**, and **new technologies**
 <img align="right" alt="Bred the penguin chillin' by the fire." width="400" src="image/duck.gif" />
 
 
