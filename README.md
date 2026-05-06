@@ -11,7 +11,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 - **`Computer Science`** at [**George Mason University**](https://www.gmu.edu/)
 - **`AI System and Automation Intern`** @ **Hemut (YC X25)**
 - **`Software Engineer Intern`** @ **Ellucian**
-- **`AI Software Intern`** @ **Deepiri**
+- **`Fouding Engineer`** @ **Deepiri**
 - **`AI Extern`** @ **Extern**
 - **`Technical Lead`** @ **Google Developer Group GMU**
 - **`Google for Developers Program`** @ **Google**
