@@ -18,7 +18,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 - **`Cloud Developer`** @ **PatriotHacks**
 
 ## Highlights
-- **`Dean’s List`** ×3
+- **`Dean’s List`** ×4
 - Built **`AI`** and **`full-stack`** products using **`LLMs`**, **`multi-agent systems`**, **`RAG workflows`**, and **`cloud tools`**
 - Strong interest in **`Software Engineering`**, **`AI Engineering`**, **`Cloud`**, and **`Machine Learning`**
 - Always learning through **projects**, **technical interviews**, and **new technologies**
