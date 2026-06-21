@@ -10,14 +10,13 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 ## Life
 - **`Computer Science`** at [**George Mason University**](https://www.gmu.edu/)
 - **`AI System and Automation Intern`** @ **Hemut (YC X25)**
+- **`Builder Fellow`** @ **Deep24 (YC W24)**
 - **`Software Engineer Intern`** @ **Ellucian**
 - **`Engineering Extern`** @ **Todd**
 - **`Incoming`** @ **YC Startup School 2026**
 - **`Fouding Engineer`** @ **Deepiri**
 - **`Software Engineer Fellow`** @ **Handshake**
 - **`AI Extern`** @ **Extern**
-- **`Technical Lead`** @ **Google Developer Group GMU**
-- **`Cloud Developer`** @ **PatriotHacks**
 
 ## Highlights
 - **`Dean’s List`** ×4
