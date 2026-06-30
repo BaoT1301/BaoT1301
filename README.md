@@ -18,6 +18,10 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 - **`Software Engineer Fellow`** @ **Handshake**
 - **`AI Extern`** @ **Extern**
 
+## Hacks
+- **`1st`** at **Salesforce Hackathon**
+- **`Semi finalist`** at **Amazon AI Hackathon**
+
 ## Highlights
 - **`Dean’s List`** ×4
 - Built **`AI`** and **`full-stack`** products using **`LLMs`**, **`multi-agent systems`**, **`RAG workflows`**, and **`cloud tools`**
