@@ -18,15 +18,16 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 - **`Software Engineer Fellow`** @ **Handshake**
 - **`AI Extern`** @ **Extern**
 
-## Hacks
-- **`1st`** at **Salesforce Hackathon**
-- **`Semi finalist`** at **Amazon AI Hackathon**
-
 ## Highlights
-- **`Dean’s List`** ×4
-- Built **`AI`** and **`full-stack`** products using **`LLMs`**, **`multi-agent systems`**, **`RAG workflows`**, and **`cloud tools`**
-- Strong interest in **`Software Engineering`**, **`AI Engineering`**, **`Cloud`**, and **`Machine Learning`**
-- Always learning through **projects**, **technical interviews**, and **new technologies**
+
+* **`1st place`** at **Salesforce Hackathon**
+* **`Semifinalist`** at **Amazon Global AI Hackathon**
+* **`Dean’s List`** x4
+* Built AI products with **`LLMs`**, **`RAG`**, **`multi-agent systems`**, **`MCP workflows`**, and **`cloud infrastructure`**
+* Worked across YC backed startup and engineering teams building **`AI automation`**, **`backend systems`**, and **`full-stack products`**
+* Interested in the systems behind real products: **`backend infra`**, **`cloud`**, **`AI engineering`**, and **`fast MVPs`**
+
+
 <img align="right" alt="Bred the penguin chillin' by the fire." width="400" src="image/duck.gif" />
 
 
